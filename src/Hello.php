@@ -20,4 +20,5 @@ class Hello
 	{
 		return $this->m_strSting;
 	}
+	
 }
